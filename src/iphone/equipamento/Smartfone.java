@@ -13,7 +13,7 @@ public class Smartfone {
 
       aplicativos iphone = new aplicativos();
 
-      System.out.println("Telefonando");
+      System.out.println("TELEFONANDO");
       iphone.atender();
 
       System.out.println("Navegando");
