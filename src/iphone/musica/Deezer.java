@@ -6,6 +6,7 @@ public class Deezer implements ReprodutorMusical{
         System.out.println("TOCANDO DEEZER");
     }
 
+
     @Override
     public void pausar() {
         System.out.println("PAUSANDO DEEZER");
